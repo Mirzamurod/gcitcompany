@@ -1,0 +1,12 @@
+.fon {
+    padding: 32px;
+    border-radius: 10px;
+}
+
+.fon.dark {
+    background-color: #1b1b1b;
+}
+
+.fon.light {
+    background-color: #f1f1f1;
+}
